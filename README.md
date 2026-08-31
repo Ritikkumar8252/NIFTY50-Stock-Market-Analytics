@@ -121,6 +121,9 @@ NIFT50-Stock-Market-Analytics/
 │   ├── nifty50_powerbi.csv
 │   └── nifty50_clean_final.parquet
 │
+├──notebook/
+|      └── NIFTY50_Data_Analysis_Project.ipynb
+|
 └── powerbi/
     └── NIFT50_Historical_Market_Analysis.pbix
 
